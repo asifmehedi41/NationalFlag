@@ -1,0 +1,18 @@
+.potaka{
+    background-color: green;
+    width:1000px;
+    height:600px;
+    text-align: center;
+    padding:20px;
+}
+.redcircle {
+    background-color: red;
+    width: 400px;
+    height:600px;
+    border-radius:50%;
+    display:inline-block;
+}
+.redcircle:hover{
+    background-color: rgb(188, 143, 145);
+    cursor: pointer;
+}
